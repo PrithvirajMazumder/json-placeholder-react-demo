@@ -1,0 +1,11 @@
+.game {
+  display: flex;
+  flex-wrap: wrap;
+}
+.status {
+  margin-left: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+}
